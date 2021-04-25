@@ -1,0 +1,25 @@
+.row {
+    margin-bottom:1em;
+    border-bottom: thin solid lightgrey;
+   
+}
+
+.head a {
+    text-decoration: none;
+    
+}
+
+.row h1 {
+    padding-left: 0em;
+}
+
+.col {
+    padding-left: 0em;
+}
+
+.content p {
+    padding-left: 0em;
+}
+.content {
+    border-bottom: none;
+}
